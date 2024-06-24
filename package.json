@@ -42,7 +42,7 @@
     "@sinonjs/fake-timers": "^11.2.2",
     "@types/jest": "^29.0.0",
     "@types/lolex": "^5.1.0",
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.14.0",
     "@types/sinonjs__fake-timers": "^8.1.5",
     "esbuild": "^0.21.0",
     "fetch-mock": "^10.0.0",

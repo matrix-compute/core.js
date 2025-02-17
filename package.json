@@ -27,16 +27,16 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/auth-token": "^5.0.0",
-    "@octokit/graphql": "^8.0.0",
-    "@octokit/request": "^9.0.0",
-    "@octokit/request-error": "^6.0.1",
+    "@octokit/graphql": "^8.2.1",
+    "@octokit/request": "^9.2.1",
+    "@octokit/request-error": "^6.1.7",
     "@octokit/types": "^13.0.0",
     "before-after-hook": "^3.0.2",
     "universal-user-agent": "^7.0.0"
   },
   "devDependencies": {
     "@octokit/auth-action": "^5.0.0",
-    "@octokit/auth-app": "^7.0.0",
+    "@octokit/auth-app": "^7.1.5",
     "@octokit/auth-oauth-app": "^8.0.0",
     "@octokit/tsconfig": "^3.0.0",
     "@sinonjs/fake-timers": "^11.2.2",
